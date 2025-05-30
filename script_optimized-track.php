@@ -34,11 +34,11 @@ $id_subcategoria = isset($_GET['id_subcategoria']) ? (int)$_GET['id_subcategoria
 $proccess = isset($_GET['proccess']) ? (int)$_GET['proccess'] : 0;
 $update = isset($_GET['update']) ? (int)$_GET['update'] : 0;
 $job_id = isset($_GET['job_id']) ? $_GET['job_id'] : null;
-$reprocess = isset($_GET['reprocess']) ? (int)$_GET['reprocess'] : 0; //  Parámetro para reprocesar errores
+$reprocess = isset($_GET['reprocess']) ? (int)$_GET['reprocess'] : 0; // NUEVO: Parámetro para reprocesar errores
 
 // Log para seguimiento
-$log_file = __DIR__ . '/logs/ia_batch_' . date('Y-m-d') . '_job-' . ($job_id ?: 'manual') . '_empresa-' . $id_empresa. '.txt';
-$error_log_file = __DIR__ . '/logs/errors_' . date('Y-m-d') . '_empresa-' . $id_empresa . '.json'; //  Log de errores específico
+$log_file = __DIR__ . '/logs/ia_batch_' . date('Y-m-d') . '_job-' . ($job_id ?: 'manual') . '.txt';
+$error_log_file = __DIR__ . '/logs/errors_' . date('Y-m-d') . '_empresa-' . $id_empresa . '.json'; // NUEVO: Log de errores específico
 $log_dir = dirname($log_file);
 if (!is_dir($log_dir)) {
     mkdir($log_dir, 0755, true);
@@ -54,7 +54,7 @@ function log_message($message) {
     echo $log_entry;
 }
 
-// FUNCIÓN: Registrar errores detallados en formato JSON
+// NUEVA FUNCIÓN: Registrar errores detallados en formato JSON
 function log_error_detail($producto_id, $empresa_id, $error_type, $error_message, $http_code = null, $response_preview = null) {
     global $error_log_file;
     
@@ -87,7 +87,7 @@ function log_error_detail($producto_id, $empresa_id, $error_type, $error_message
     log_message("ERROR REGISTRADO: Producto $producto_id - $error_type: $error_message");
 }
 
-// FUNCIÓN: Leer productos con errores para reprocesar
+// NUEVA FUNCIÓN: Leer productos con errores para reprocesar
 function get_failed_productos($empresa_id, $error_log_date = null) {
     $error_log_date = $error_log_date ?: date('Y-m-d');
     $error_file = __DIR__ . '/logs/errors_' . $error_log_date . '_empresa-' . $empresa_id . '.json';
