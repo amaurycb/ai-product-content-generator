@@ -2304,3 +2304,278 @@
 [2025-05-30 07:37:50] ✓ Producto 1002857 actualizado exitosamente
 [2025-05-30 07:37:53] Procesando producto ID: 1002858 - latex extracubriente calipso
 [2025-05-30 07:37:53] Intento 1 de 6 para producto 1002858
+[2025-05-30 07:37:56] HTTP Code: 200, Response size: 1780 bytes
+[2025-05-30 07:37:56] ✓ Respuesta exitosa para producto 1002858 en intento 1
+[2025-05-30 07:37:56] ✓ Producto 1002858 actualizado exitosamente
+[2025-05-30 07:37:59] Procesando producto ID: 1002859 - esmalte sintetico verde norte imagen
+[2025-05-30 07:37:59] Intento 1 de 6 para producto 1002859
+[2025-05-30 07:38:03] HTTP Code: 200, Response size: 1695 bytes
+[2025-05-30 07:38:03] ✓ Respuesta exitosa para producto 1002859 en intento 1
+[2025-05-30 07:38:03] ✓ Producto 1002859 actualizado exitosamente
+[2025-05-30 07:38:06] Procesando producto ID: 1002860 - sellador madera
+[2025-05-30 07:38:06] Intento 1 de 6 para producto 1002860
+[2025-05-30 07:38:10] HTTP Code: 200, Response size: 1750 bytes
+[2025-05-30 07:38:10] ✓ Respuesta exitosa para producto 1002860 en intento 1
+[2025-05-30 07:38:10] ✓ Producto 1002860 actualizado exitosamente
+[2025-05-30 07:38:10] Memoria usada: 2MB - Total procesados: 350
+[2025-05-30 07:38:13] Procesando producto ID: 1002861 - esmalte sintetico amarillo
+[2025-05-30 07:38:13] Intento 1 de 6 para producto 1002861
+[2025-05-30 07:38:16] HTTP Code: 200, Response size: 1914 bytes
+[2025-05-30 07:38:16] ✓ Respuesta exitosa para producto 1002861 en intento 1
+[2025-05-30 07:38:16] ✓ Producto 1002861 actualizado exitosamente
+[2025-05-30 07:38:19] Procesando producto ID: 1002862 - esmalte sintetico calipso
+[2025-05-30 07:38:19] Intento 1 de 6 para producto 1002862
+[2025-05-30 07:38:23] HTTP Code: 200, Response size: 1767 bytes
+[2025-05-30 07:38:23] ✓ Respuesta exitosa para producto 1002862 en intento 1
+[2025-05-30 07:38:23] ✓ Producto 1002862 actualizado exitosamente
+[2025-05-30 07:38:26] Procesando producto ID: 1002863 - esmalte sintetico rosado
+[2025-05-30 07:38:26] Intento 1 de 6 para producto 1002863
+[2025-05-30 07:38:29] HTTP Code: 200, Response size: 1781 bytes
+[2025-05-30 07:38:29] ✓ Respuesta exitosa para producto 1002863 en intento 1
+[2025-05-30 07:38:29] ✓ Producto 1002863 actualizado exitosamente
+[2025-05-30 07:38:32] Procesando producto ID: 1002867 - esmalte sintetico morado gris
+[2025-05-30 07:38:32] Intento 1 de 6 para producto 1002867
+[2025-05-30 07:38:36] HTTP Code: 200, Response size: 1804 bytes
+[2025-05-30 07:38:36] ✓ Respuesta exitosa para producto 1002867 en intento 1
+[2025-05-30 07:38:36] ✓ Producto 1002867 actualizado exitosamente
+[2025-05-30 07:38:39] Procesando producto ID: 1002868 - esmalte al agua negro matte
+[2025-05-30 07:38:39] Intento 1 de 6 para producto 1002868
+[2025-05-30 07:38:42] HTTP Code: 200, Response size: 1603 bytes
+[2025-05-30 07:38:42] ✓ Respuesta exitosa para producto 1002868 en intento 1
+[2025-05-30 07:38:42] ✓ Producto 1002868 actualizado exitosamente
+[2025-05-30 07:38:45] Procesando producto ID: 1002870 - esmalte sintetico cafe moro
+[2025-05-30 07:38:45] Intento 1 de 6 para producto 1002870
+[2025-05-30 07:38:48] HTTP Code: 200, Response size: 1859 bytes
+[2025-05-30 07:38:48] ✓ Respuesta exitosa para producto 1002870 en intento 1
+[2025-05-30 07:38:48] ✓ Producto 1002870 actualizado exitosamente
+[2025-05-30 07:38:51] Procesando producto ID: 1002873 - distanciador 19x25
+[2025-05-30 07:38:51] Intento 1 de 6 para producto 1002873
+[2025-05-30 07:38:55] HTTP Code: 200, Response size: 1736 bytes
+[2025-05-30 07:38:55] ✓ Respuesta exitosa para producto 1002873 en intento 1
+[2025-05-30 07:38:55] ✓ Producto 1002873 actualizado exitosamente
+[2025-05-30 07:38:58] Procesando producto ID: 1002933 - Aerografo  GenSet  MODEL TC-20SERIES
+[2025-05-30 07:38:58] Intento 1 de 6 para producto 1002933
+[2025-05-30 07:39:02] HTTP Code: 200, Response size: 2069 bytes
+[2025-05-30 07:39:02] ✓ Respuesta exitosa para producto 1002933 en intento 1
+[2025-05-30 07:39:02] ✓ Producto 1002933 actualizado exitosamente
+[2025-05-30 07:39:05] Procesando producto ID: 1002934 - Caladora dewalt  DW300-B2C
+[2025-05-30 07:39:05] Intento 1 de 6 para producto 1002934
+[2025-05-30 07:39:08] HTTP Code: 200, Response size: 1862 bytes
+[2025-05-30 07:39:08] ✓ Respuesta exitosa para producto 1002934 en intento 1
+[2025-05-30 07:39:08] ✓ Producto 1002934 actualizado exitosamente
+[2025-05-30 07:39:11] Procesando producto ID: 1002936 - COMPRESOR TOYOMAQ  TM2590LT  2.5HP
+[2025-05-30 07:39:11] Intento 1 de 6 para producto 1002936
+[2025-05-30 07:39:15] HTTP Code: 200, Response size: 1972 bytes
+[2025-05-30 07:39:15] ✓ Respuesta exitosa para producto 1002936 en intento 1
+[2025-05-30 07:39:15] ✓ Producto 1002936 actualizado exitosamente
+[2025-05-30 07:39:15] Memoria usada: 2MB - Total procesados: 360
+[2025-05-30 07:39:18] === RESUMEN DEL LOTE ===
+[2025-05-30 07:39:18] Productos en lote: 30
+[2025-05-30 07:39:18] Total procesados: 360 de 401
+[2025-05-30 07:39:18] Procesando lote - Offset: 360, Limit: 30
+[2025-05-30 07:39:18] Productos en este lote: 30
+[2025-05-30 07:39:18] Procesando producto ID: 1002937 - COMPRESOR HURACAN INDURARC 1520PRO2
+[2025-05-30 07:39:18] Intento 1 de 6 para producto 1002937
+[2025-05-30 07:39:23] HTTP Code: 200, Response size: 1965 bytes
+[2025-05-30 07:39:23] ✓ Respuesta exitosa para producto 1002937 en intento 1
+[2025-05-30 07:39:23] ✓ Producto 1002937 actualizado exitosamente
+[2025-05-30 07:39:26] Procesando producto ID: 1002938 - DREMEL BAUKER MP170
+[2025-05-30 07:39:26] Intento 1 de 6 para producto 1002938
+[2025-05-30 07:39:31] HTTP Code: 200, Response size: 2042 bytes
+[2025-05-30 07:39:31] ✓ Respuesta exitosa para producto 1002938 en intento 1
+[2025-05-30 07:39:31] ✓ Producto 1002938 actualizado exitosamente
+[2025-05-30 07:39:34] Procesando producto ID: 1002939 - Esmeril de banco mod. Bg150
+[2025-05-30 07:39:34] Intento 1 de 6 para producto 1002939
+[2025-05-30 07:39:37] HTTP Code: 200, Response size: 1931 bytes
+[2025-05-30 07:39:37] ✓ Respuesta exitosa para producto 1002939 en intento 1
+[2025-05-30 07:39:37] ✓ Producto 1002939 actualizado exitosamente
+[2025-05-30 07:39:40] Procesando producto ID: 1002940 - Esmeril makita 9557HP
+[2025-05-30 07:39:40] Intento 1 de 6 para producto 1002940
+[2025-05-30 07:39:44] HTTP Code: 200, Response size: 1894 bytes
+[2025-05-30 07:39:44] ✓ Respuesta exitosa para producto 1002940 en intento 1
+[2025-05-30 07:39:44] ✓ Producto 1002940 actualizado exitosamente
+[2025-05-30 07:39:47] Procesando producto ID: 1002941 - ESMERIL MAKITA M0901
+[2025-05-30 07:39:47] Intento 1 de 6 para producto 1002941
+[2025-05-30 07:39:51] HTTP Code: 200, Response size: 1992 bytes
+[2025-05-30 07:39:51] ✓ Respuesta exitosa para producto 1002941 en intento 1
+[2025-05-30 07:39:51] ✓ Producto 1002941 actualizado exitosamente
+[2025-05-30 07:39:54] Procesando producto ID: 1002942 - Fresadora EINHELL mod TE-RO-55
+[2025-05-30 07:39:54] Intento 1 de 6 para producto 1002942
+[2025-05-30 07:39:58] HTTP Code: 200, Response size: 1735 bytes
+[2025-05-30 07:39:58] ✓ Respuesta exitosa para producto 1002942 en intento 1
+[2025-05-30 07:39:58] ✓ Producto 1002942 actualizado exitosamente
+[2025-05-30 07:40:01] Procesando producto ID: 1002943 - FRESADORA NORSTAR 1720
+[2025-05-30 07:40:01] Intento 1 de 6 para producto 1002943
+[2025-05-30 07:40:06] HTTP Code: 200, Response size: 2143 bytes
+[2025-05-30 07:40:06] ✓ Respuesta exitosa para producto 1002943 en intento 1
+[2025-05-30 07:40:06] ✓ Producto 1002943 actualizado exitosamente
+[2025-05-30 07:40:09] Procesando producto ID: 1002944 - FRESADORA SKIL 1831
+[2025-05-30 07:40:09] Intento 1 de 6 para producto 1002944
+[2025-05-30 07:40:13] HTTP Code: 200, Response size: 1788 bytes
+[2025-05-30 07:40:13] ✓ Respuesta exitosa para producto 1002944 en intento 1
+[2025-05-30 07:40:13] ✓ Producto 1002944 actualizado exitosamente
+[2025-05-30 07:40:16] Procesando producto ID: 1002945 - Fresadora ferton TP J6MM
+[2025-05-30 07:40:16] Intento 1 de 6 para producto 1002945
+[2025-05-30 07:40:20] HTTP Code: 200, Response size: 1894 bytes
+[2025-05-30 07:40:20] ✓ Respuesta exitosa para producto 1002945 en intento 1
+[2025-05-30 07:40:20] ✓ Producto 1002945 actualizado exitosamente
+[2025-05-30 07:40:23] Procesando producto ID: 1002946 - Generador Eléctrico, mod ge5500-v
+[2025-05-30 07:40:23] Intento 1 de 6 para producto 1002946
+[2025-05-30 07:40:27] HTTP Code: 200, Response size: 2045 bytes
+[2025-05-30 07:40:27] ✓ Respuesta exitosa para producto 1002946 en intento 1
+[2025-05-30 07:40:27] ✓ Producto 1002946 actualizado exitosamente
+[2025-05-30 07:40:27] Memoria usada: 2MB - Total procesados: 370
+[2025-05-30 07:40:30] Procesando producto ID: 1002947 - Lijadora de banda makita 9911
+[2025-05-30 07:40:30] Intento 1 de 6 para producto 1002947
+[2025-05-30 07:40:35] HTTP Code: 200, Response size: 2173 bytes
+[2025-05-30 07:40:35] ✓ Respuesta exitosa para producto 1002947 en intento 1
+[2025-05-30 07:40:35] ✓ Producto 1002947 actualizado exitosamente
+[2025-05-30 07:40:38] Procesando producto ID: 1002948 - Lijadora de banda CROWN mod. Ct13311
+[2025-05-30 07:40:38] Intento 1 de 6 para producto 1002948
+[2025-05-30 07:40:41] HTTP Code: 200, Response size: 1907 bytes
+[2025-05-30 07:40:41] ✓ Respuesta exitosa para producto 1002948 en intento 1
+[2025-05-30 07:40:41] ✓ Producto 1002948 actualizado exitosamente
+[2025-05-30 07:40:44] Procesando producto ID: 1002949 - Maquina de soldar HYUNDAI Mig-180 dual
+[2025-05-30 07:40:44] Intento 1 de 6 para producto 1002949
+[2025-05-30 07:40:49] HTTP Code: 200, Response size: 2055 bytes
+[2025-05-30 07:40:49] ✓ Respuesta exitosa para producto 1002949 en intento 1
+[2025-05-30 07:40:49] ✓ Producto 1002949 actualizado exitosamente
+[2025-05-30 07:40:52] Procesando producto ID: 1002950 - Maquina de soldar Gen Set Mig-500 welder
+[2025-05-30 07:40:52] Intento 1 de 6 para producto 1002950
+[2025-05-30 07:40:56] HTTP Code: 200, Response size: 2163 bytes
+[2025-05-30 07:40:56] ✓ Respuesta exitosa para producto 1002950 en intento 1
+[2025-05-30 07:40:56] ✓ Producto 1002950 actualizado exitosamente
+[2025-05-30 07:40:59] Procesando producto ID: 1002951 - maquina selladora de tela LC-3000A
+[2025-05-30 07:40:59] Intento 1 de 6 para producto 1002951
+[2025-05-30 07:41:03] HTTP Code: 200, Response size: 1808 bytes
+[2025-05-30 07:41:03] ✓ Respuesta exitosa para producto 1002951 en intento 1
+[2025-05-30 07:41:03] ✓ Producto 1002951 actualizado exitosamente
+[2025-05-30 07:41:06] Procesando producto ID: 1002952 - maquina soldar indurac 200pro2
+[2025-05-30 07:41:06] Intento 1 de 6 para producto 1002952
+[2025-05-30 07:41:11] HTTP Code: 200, Response size: 2078 bytes
+[2025-05-30 07:41:11] ✓ Respuesta exitosa para producto 1002952 en intento 1
+[2025-05-30 07:41:11] ✓ Producto 1002952 actualizado exitosamente
+[2025-05-30 07:41:14] Procesando producto ID: 1002953 - pistola de calor crown ct19022k
+[2025-05-30 07:41:14] Intento 1 de 6 para producto 1002953
+[2025-05-30 07:41:17] HTTP Code: 200, Response size: 1840 bytes
+[2025-05-30 07:41:17] ✓ Respuesta exitosa para producto 1002953 en intento 1
+[2025-05-30 07:41:17] ✓ Producto 1002953 actualizado exitosamente
+[2025-05-30 07:41:20] Procesando producto ID: 1002954 - pulidora 9050 skil
+[2025-05-30 07:41:20] Intento 1 de 6 para producto 1002954
+[2025-05-30 07:41:24] HTTP Code: 200, Response size: 1868 bytes
+[2025-05-30 07:41:24] ✓ Respuesta exitosa para producto 1002954 en intento 1
+[2025-05-30 07:41:24] ✓ Producto 1002954 actualizado exitosamente
+[2025-05-30 07:41:27] Procesando producto ID: 1002955 - Sierra Circular FERTON mod. CCJ001
+[2025-05-30 07:41:27] Intento 1 de 6 para producto 1002955
+[2025-05-30 07:41:31] HTTP Code: 200, Response size: 2082 bytes
+[2025-05-30 07:41:31] ✓ Respuesta exitosa para producto 1002955 en intento 1
+[2025-05-30 07:41:31] ✓ Producto 1002955 actualizado exitosamente
+[2025-05-30 07:41:34] Procesando producto ID: 1002956 - SIERRA INGLETEADORA MAKITA MODEL LS1040
+[2025-05-30 07:41:34] Intento 1 de 6 para producto 1002956
+[2025-05-30 07:41:39] HTTP Code: 200, Response size: 2119 bytes
+[2025-05-30 07:41:39] ✓ Respuesta exitosa para producto 1002956 en intento 1
+[2025-05-30 07:41:39] ✓ Producto 1002956 actualizado exitosamente
+[2025-05-30 07:41:39] Memoria usada: 2MB - Total procesados: 380
+[2025-05-30 07:41:42] Procesando producto ID: 1002957 - sierra telescopica bauker
+[2025-05-30 07:41:42] Intento 1 de 6 para producto 1002957
+[2025-05-30 07:41:46] HTTP Code: 200, Response size: 2016 bytes
+[2025-05-30 07:41:46] ✓ Respuesta exitosa para producto 1002957 en intento 1
+[2025-05-30 07:41:46] ✓ Producto 1002957 actualizado exitosamente
+[2025-05-30 07:41:49] Procesando producto ID: 1002958 - taladro electrico bauker PC900ID
+[2025-05-30 07:41:49] Intento 1 de 6 para producto 1002958
+[2025-05-30 07:41:54] HTTP Code: 200, Response size: 2202 bytes
+[2025-05-30 07:41:54] ✓ Respuesta exitosa para producto 1002958 en intento 1
+[2025-05-30 07:41:54] ✓ Producto 1002958 actualizado exitosamente
+[2025-05-30 07:41:57] Procesando producto ID: 1002959 - taladro inalambrico atornillador m18 milwauke
+[2025-05-30 07:41:57] Intento 1 de 6 para producto 1002959
+[2025-05-30 07:42:02] HTTP Code: 200, Response size: 2132 bytes
+[2025-05-30 07:42:02] ✓ Respuesta exitosa para producto 1002959 en intento 1
+[2025-05-30 07:42:02] ✓ Producto 1002959 actualizado exitosamente
+[2025-05-30 07:42:05] Procesando producto ID: 1002960 - taladro inalambrico percutor m18 milwauke
+[2025-05-30 07:42:05] Intento 1 de 6 para producto 1002960
+[2025-05-30 07:42:09] HTTP Code: 200, Response size: 2087 bytes
+[2025-05-30 07:42:09] ✓ Respuesta exitosa para producto 1002960 en intento 1
+[2025-05-30 07:42:09] ✓ Producto 1002960 actualizado exitosamente
+[2025-05-30 07:42:12] Procesando producto ID: 1002961 - Taladro atornillador inalambricoM12milwauke 6,35mm
+[2025-05-30 07:42:12] Intento 1 de 6 para producto 1002961
+[2025-05-30 07:42:16] HTTP Code: 200, Response size: 1914 bytes
+[2025-05-30 07:42:16] ✓ Respuesta exitosa para producto 1002961 en intento 1
+[2025-05-30 07:42:16] ✓ Producto 1002961 actualizado exitosamente
+[2025-05-30 07:42:19] Procesando producto ID: 1002962 - Taladro electrico Milwauke percutor 13mm
+[2025-05-30 07:42:19] Intento 1 de 6 para producto 1002962
+[2025-05-30 07:42:23] HTTP Code: 200, Response size: 2101 bytes
+[2025-05-30 07:42:23] ✓ Respuesta exitosa para producto 1002962 en intento 1
+[2025-05-30 07:42:23] ✓ Producto 1002962 actualizado exitosamente
+[2025-05-30 07:42:26] Procesando producto ID: 1002963 - taladro INGCO id11008 impact drill
+[2025-05-30 07:42:26] Intento 1 de 6 para producto 1002963
+[2025-05-30 07:42:30] HTTP Code: 200, Response size: 1927 bytes
+[2025-05-30 07:42:30] ✓ Respuesta exitosa para producto 1002963 en intento 1
+[2025-05-30 07:42:30] ✓ Producto 1002963 actualizado exitosamente
+[2025-05-30 07:42:33] Procesando producto ID: 1002964 - TALADRO ELECTRICO BAUKER LD-750E
+[2025-05-30 07:42:33] Intento 1 de 6 para producto 1002964
+[2025-05-30 07:42:38] HTTP Code: 200, Response size: 2057 bytes
+[2025-05-30 07:42:38] ✓ Respuesta exitosa para producto 1002964 en intento 1
+[2025-05-30 07:42:38] ✓ Producto 1002964 actualizado exitosamente
+[2025-05-30 07:42:41] Procesando producto ID: 1002965 - taladro pedestal
+[2025-05-30 07:42:41] Intento 1 de 6 para producto 1002965
+[2025-05-30 07:42:45] HTTP Code: 200, Response size: 2019 bytes
+[2025-05-30 07:42:45] ✓ Respuesta exitosa para producto 1002965 en intento 1
+[2025-05-30 07:42:45] ✓ Producto 1002965 actualizado exitosamente
+[2025-05-30 07:42:48] Procesando producto ID: 1002966 - taladro percutor uberman erh800
+[2025-05-30 07:42:48] Intento 1 de 6 para producto 1002966
+[2025-05-30 07:42:52] HTTP Code: 200, Response size: 2073 bytes
+[2025-05-30 07:42:52] ✓ Respuesta exitosa para producto 1002966 en intento 1
+[2025-05-30 07:42:52] ✓ Producto 1002966 actualizado exitosamente
+[2025-05-30 07:42:52] Memoria usada: 2MB - Total procesados: 390
+[2025-05-30 07:42:55] === RESUMEN DEL LOTE ===
+[2025-05-30 07:42:55] Productos en lote: 30
+[2025-05-30 07:42:55] Total procesados: 390 de 401
+[2025-05-30 07:42:55] Procesando lote - Offset: 390, Limit: 30
+[2025-05-30 07:42:55] Productos en este lote: 11
+[2025-05-30 07:42:55] Procesando producto ID: 1002967 - taladro stanley sdh600-B2C
+[2025-05-30 07:42:55] Intento 1 de 6 para producto 1002967
+[2025-05-30 07:42:59] HTTP Code: 200, Response size: 1989 bytes
+[2025-05-30 07:42:59] ✓ Respuesta exitosa para producto 1002967 en intento 1
+[2025-05-30 07:42:59] ✓ Producto 1002967 actualizado exitosamente
+[2025-05-30 07:43:02] Procesando producto ID: 1002968 - tronzadora crown
+[2025-05-30 07:43:02] Intento 1 de 6 para producto 1002968
+[2025-05-30 07:43:06] HTTP Code: 200, Response size: 1749 bytes
+[2025-05-30 07:43:06] ✓ Respuesta exitosa para producto 1002968 en intento 1
+[2025-05-30 07:43:06] ✓ Producto 1002968 actualizado exitosamente
+[2025-05-30 07:43:09] Procesando producto ID: 1003164 - CARGADOR M18(BATERIAS)
+[2025-05-30 07:43:09] Intento 1 de 6 para producto 1003164
+[2025-05-30 07:43:12] HTTP Code: 200, Response size: 1775 bytes
+[2025-05-30 07:43:12] ✓ Respuesta exitosa para producto 1003164 en intento 1
+[2025-05-30 07:43:12] ✓ Producto 1003164 actualizado exitosamente
+[2025-05-30 07:43:15] Procesando producto ID: 1003165 - CARGADOR M12(BATERIAS)
+[2025-05-30 07:43:15] Intento 1 de 6 para producto 1003165
+[2025-05-30 07:43:19] HTTP Code: 200, Response size: 1686 bytes
+[2025-05-30 07:43:19] ✓ Respuesta exitosa para producto 1003165 en intento 1
+[2025-05-30 07:43:19] ✓ Producto 1003165 actualizado exitosamente
+[2025-05-30 07:43:22] Procesando producto ID: 1003168 - BATERIA M12 PEQUEÑAS 2,0
+[2025-05-30 07:43:22] Intento 1 de 6 para producto 1003168
+[2025-05-30 07:43:26] HTTP Code: 200, Response size: 1887 bytes
+[2025-05-30 07:43:26] ✓ Respuesta exitosa para producto 1003168 en intento 1
+[2025-05-30 07:43:26] ✓ Producto 1003168 actualizado exitosamente
+[2025-05-30 07:43:29] Procesando producto ID: 1003169 - BATERIA M12  6,0
+[2025-05-30 07:43:29] Intento 1 de 6 para producto 1003169
+[2025-05-30 07:43:33] HTTP Code: 200, Response size: 1930 bytes
+[2025-05-30 07:43:33] ✓ Respuesta exitosa para producto 1003169 en intento 1
+[2025-05-30 07:43:33] ✓ Producto 1003169 actualizado exitosamente
+[2025-05-30 07:43:36] Procesando producto ID: 1003170 - BATERIA M18  2.0
+[2025-05-30 07:43:36] Intento 1 de 6 para producto 1003170
+[2025-05-30 07:43:40] HTTP Code: 200, Response size: 1925 bytes
+[2025-05-30 07:43:40] ✓ Respuesta exitosa para producto 1003170 en intento 1
+[2025-05-30 07:43:40] ✓ Producto 1003170 actualizado exitosamente
+[2025-05-30 07:43:43] Procesando producto ID: 1003171 - BATERIA M18  6.0
+[2025-05-30 07:43:43] Intento 1 de 6 para producto 1003171
+[2025-05-30 07:43:47] HTTP Code: 200, Response size: 1904 bytes
+[2025-05-30 07:43:47] ✓ Respuesta exitosa para producto 1003171 en intento 1
+[2025-05-30 07:43:47] ✓ Producto 1003171 actualizado exitosamente
+[2025-05-30 07:43:50] Procesando producto ID: 1003191 - LATA GALVANIZADA 0,8MM 122x3mt
+[2025-05-30 07:43:50] Intento 1 de 6 para producto 1003191
+[2025-05-30 07:43:54] HTTP Code: 200, Response size: 1832 bytes
+[2025-05-30 07:43:54] ✓ Respuesta exitosa para producto 1003191 en intento 1
+[2025-05-30 07:43:54] ✓ Producto 1003191 actualizado exitosamente
+[2025-05-30 07:43:57] Procesando producto ID: 1003673 - PASTA SOLDAR 500GRS
+[2025-05-30 07:43:57] Intento 1 de 6 para producto 1003673

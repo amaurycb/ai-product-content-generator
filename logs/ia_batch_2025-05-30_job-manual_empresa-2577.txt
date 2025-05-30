@@ -1,0 +1,605 @@
+[2025-05-30 07:44:57] Conectando a base de datos...
+[2025-05-30 07:44:57] Iniciando procesamiento para empresa: 2577
+[2025-05-30 07:44:57] Cargando datos de referencia...
+[2025-05-30 07:44:57] Cargados: 28 categorías, 0 subcategorías, 0 fabricantes
+[2025-05-30 07:44:57] Total de productos a procesar: 401
+[2025-05-30 07:44:57] Procesando lote - Offset: 0, Limit: 30
+[2025-05-30 07:44:57] Productos en este lote: 30
+[2025-05-30 07:44:57] Procesando producto ID: 1001041 - galletero (makita) 4 1/2
+[2025-05-30 07:44:57] Intento 1 de 6 para producto 1001041
+[2025-05-30 07:45:01] HTTP Code: 200, Response size: 2014 bytes
+[2025-05-30 07:45:01] ✓ Respuesta exitosa para producto 1001041 en intento 1
+[2025-05-30 07:45:01] ✓ Producto 1001041 actualizado exitosamente
+[2025-05-30 07:45:04] Procesando producto ID: 1001042 - maquina de soldar (indura 200pro2
+[2025-05-30 07:45:04] Intento 1 de 6 para producto 1001042
+[2025-05-30 07:45:09] HTTP Code: 200, Response size: 2092 bytes
+[2025-05-30 07:45:09] ✓ Respuesta exitosa para producto 1001042 en intento 1
+[2025-05-30 07:45:09] ✓ Producto 1001042 actualizado exitosamente
+[2025-05-30 07:45:12] Procesando producto ID: 1001043 - pistola de calor (crown)
+[2025-05-30 07:45:12] Intento 1 de 6 para producto 1001043
+[2025-05-30 07:45:15] HTTP Code: 200, Response size: 1768 bytes
+[2025-05-30 07:45:15] ✓ Respuesta exitosa para producto 1001043 en intento 1
+[2025-05-30 07:45:15] ✓ Producto 1001043 actualizado exitosamente
+[2025-05-30 07:45:18] Procesando producto ID: 1001045 - taladro inalanbrico (bauker)
+[2025-05-30 07:45:18] Intento 1 de 6 para producto 1001045
+[2025-05-30 07:45:22] HTTP Code: 200, Response size: 1908 bytes
+[2025-05-30 07:45:22] ✓ Respuesta exitosa para producto 1001045 en intento 1
+[2025-05-30 07:45:22] ✓ Producto 1001045 actualizado exitosamente
+[2025-05-30 07:45:25] Procesando producto ID: 1001046 - pulverisadora electrica (indura)
+[2025-05-30 07:45:25] Intento 1 de 6 para producto 1001046
+[2025-05-30 07:45:29] HTTP Code: 200, Response size: 1959 bytes
+[2025-05-30 07:45:29] ✓ Respuesta exitosa para producto 1001046 en intento 1
+[2025-05-30 07:45:29] ✓ Producto 1001046 actualizado exitosamente
+[2025-05-30 07:45:32] Procesando producto ID: 1001047 - pulverisadora electrica (bauker)
+[2025-05-30 07:45:32] Intento 1 de 6 para producto 1001047
+[2025-05-30 07:45:35] HTTP Code: 200, Response size: 1845 bytes
+[2025-05-30 07:45:35] ✓ Respuesta exitosa para producto 1001047 en intento 1
+[2025-05-30 07:45:35] ✓ Producto 1001047 actualizado exitosamente
+[2025-05-30 07:45:38] Procesando producto ID: 1001049 - taladro percutor (milwuakee)
+[2025-05-30 07:45:38] Intento 1 de 6 para producto 1001049
+[2025-05-30 07:45:42] HTTP Code: 200, Response size: 1822 bytes
+[2025-05-30 07:45:42] ✓ Respuesta exitosa para producto 1001049 en intento 1
+[2025-05-30 07:45:42] ✓ Producto 1001049 actualizado exitosamente
+[2025-05-30 07:45:45] Procesando producto ID: 1001050 - taladro electrico (bauker)
+[2025-05-30 07:45:45] Intento 1 de 6 para producto 1001050
+[2025-05-30 07:45:49] HTTP Code: 200, Response size: 1923 bytes
+[2025-05-30 07:45:49] ✓ Respuesta exitosa para producto 1001050 en intento 1
+[2025-05-30 07:45:49] ✓ Producto 1001050 actualizado exitosamente
+[2025-05-30 07:45:52] Procesando producto ID: 1001051 - pistola silicona en caliente TOPEX
+[2025-05-30 07:45:52] Intento 1 de 6 para producto 1001051
+[2025-05-30 07:45:55] HTTP Code: 200, Response size: 1747 bytes
+[2025-05-30 07:45:55] ✓ Respuesta exitosa para producto 1001051 en intento 1
+[2025-05-30 07:45:55] ✓ Producto 1001051 actualizado exitosamente
+[2025-05-30 07:45:58] Procesando producto ID: 1001054 - cautin tipo lapiz (kamasa)
+[2025-05-30 07:45:58] Intento 1 de 6 para producto 1001054
+[2025-05-30 07:46:02] HTTP Code: 200, Response size: 1926 bytes
+[2025-05-30 07:46:02] ✓ Respuesta exitosa para producto 1001054 en intento 1
+[2025-05-30 07:46:02] ✓ Producto 1001054 actualizado exitosamente
+[2025-05-30 07:46:02] Memoria usada: 2MB - Total procesados: 10
+[2025-05-30 07:46:05] Procesando producto ID: 1001061 - andamio (H) mediano
+[2025-05-30 07:46:05] Intento 1 de 6 para producto 1001061
+[2025-05-30 07:46:08] HTTP Code: 200, Response size: 1876 bytes
+[2025-05-30 07:46:08] ✓ Respuesta exitosa para producto 1001061 en intento 1
+[2025-05-30 07:46:08] ✓ Producto 1001061 actualizado exitosamente
+[2025-05-30 07:46:11] Procesando producto ID: 1001062 - andamio (crusetas)mediano
+[2025-05-30 07:46:11] Intento 1 de 6 para producto 1001062
+[2025-05-30 07:46:15] HTTP Code: 200, Response size: 1861 bytes
+[2025-05-30 07:46:15] ✓ Respuesta exitosa para producto 1001062 en intento 1
+[2025-05-30 07:46:15] ✓ Producto 1001062 actualizado exitosamente
+[2025-05-30 07:46:18] Procesando producto ID: 1001063 - andamio (bandejas)mediano
+[2025-05-30 07:46:18] Intento 1 de 6 para producto 1001063
+[2025-05-30 07:46:21] HTTP Code: 200, Response size: 1741 bytes
+[2025-05-30 07:46:21] ✓ Respuesta exitosa para producto 1001063 en intento 1
+[2025-05-30 07:46:21] ✓ Producto 1001063 actualizado exitosamente
+[2025-05-30 07:46:24] Procesando producto ID: 1001064 - andamio (ruedas)mediano
+[2025-05-30 07:46:24] Intento 1 de 6 para producto 1001064
+[2025-05-30 07:46:28] HTTP Code: 200, Response size: 1693 bytes
+[2025-05-30 07:46:28] ✓ Respuesta exitosa para producto 1001064 en intento 1
+[2025-05-30 07:46:28] ✓ Producto 1001064 actualizado exitosamente
+[2025-05-30 07:46:31] Procesando producto ID: 1001066 - Arnes (SECMA)
+[2025-05-30 07:46:31] Intento 1 de 6 para producto 1001066
+[2025-05-30 07:46:34] HTTP Code: 200, Response size: 1704 bytes
+[2025-05-30 07:46:34] ✓ Respuesta exitosa para producto 1001066 en intento 1
+[2025-05-30 07:46:34] ✓ Producto 1001066 actualizado exitosamente
+[2025-05-30 07:46:37] Procesando producto ID: 1001068 - Alargadores
+[2025-05-30 07:46:37] Intento 1 de 6 para producto 1001068
+[2025-05-30 07:46:41] HTTP Code: 200, Response size: 1873 bytes
+[2025-05-30 07:46:41] ✓ Respuesta exitosa para producto 1001068 en intento 1
+[2025-05-30 07:46:41] ✓ Producto 1001068 actualizado exitosamente
+[2025-05-30 07:46:44] Procesando producto ID: 1001071 - alicate universal (ESMART)
+[2025-05-30 07:46:44] Intento 1 de 6 para producto 1001071
+[2025-05-30 07:46:47] HTTP Code: 200, Response size: 1845 bytes
+[2025-05-30 07:46:47] ✓ Respuesta exitosa para producto 1001071 en intento 1
+[2025-05-30 07:46:47] ✓ Producto 1001071 actualizado exitosamente
+[2025-05-30 07:46:50] Procesando producto ID: 1001072 - alicate corte (ESMART)
+[2025-05-30 07:46:50] Intento 1 de 6 para producto 1001072
+[2025-05-30 07:46:53] HTTP Code: 200, Response size: 1724 bytes
+[2025-05-30 07:46:53] ✓ Respuesta exitosa para producto 1001072 en intento 1
+[2025-05-30 07:46:53] ✓ Producto 1001072 actualizado exitosamente
+[2025-05-30 07:46:56] Procesando producto ID: 1001074 - alicate punta (ESMART)
+[2025-05-30 07:46:56] Intento 1 de 6 para producto 1001074
+[2025-05-30 07:46:59] HTTP Code: 200, Response size: 1809 bytes
+[2025-05-30 07:46:59] ✓ Respuesta exitosa para producto 1001074 en intento 1
+[2025-05-30 07:46:59] ✓ Producto 1001074 actualizado exitosamente
+[2025-05-30 07:47:02] Procesando producto ID: 1001076 - desarmador estrella (TOTAL)
+[2025-05-30 07:47:02] Intento 1 de 6 para producto 1001076
+[2025-05-30 07:47:06] HTTP Code: 200, Response size: 1928 bytes
+[2025-05-30 07:47:06] ✓ Respuesta exitosa para producto 1001076 en intento 1
+[2025-05-30 07:47:06] ✓ Producto 1001076 actualizado exitosamente
+[2025-05-30 07:47:06] Memoria usada: 2MB - Total procesados: 20
+[2025-05-30 07:47:09] Procesando producto ID: 1001077 - desarmador plano (TOTAL)
+[2025-05-30 07:47:09] Intento 1 de 6 para producto 1001077
+[2025-05-30 07:47:13] HTTP Code: 200, Response size: 1757 bytes
+[2025-05-30 07:47:13] ✓ Respuesta exitosa para producto 1001077 en intento 1
+[2025-05-30 07:47:13] ✓ Producto 1001077 actualizado exitosamente
+[2025-05-30 07:47:16] Procesando producto ID: 1001078 - martillo (INCCO)
+[2025-05-30 07:47:16] Intento 1 de 6 para producto 1001078
+[2025-05-30 07:47:19] HTTP Code: 200, Response size: 1716 bytes
+[2025-05-30 07:47:19] ✓ Respuesta exitosa para producto 1001078 en intento 1
+[2025-05-30 07:47:19] ✓ Producto 1001078 actualizado exitosamente
+[2025-05-30 07:47:22] Procesando producto ID: 1001079 - broca fierro #5
+[2025-05-30 07:47:22] Intento 1 de 6 para producto 1001079
+[2025-05-30 07:47:25] HTTP Code: 200, Response size: 1751 bytes
+[2025-05-30 07:47:25] ✓ Respuesta exitosa para producto 1001079 en intento 1
+[2025-05-30 07:47:25] ✓ Producto 1001079 actualizado exitosamente
+[2025-05-30 07:47:28] Procesando producto ID: 1001080 - broca fierro #6
+[2025-05-30 07:47:28] Intento 1 de 6 para producto 1001080
+[2025-05-30 07:47:32] HTTP Code: 200, Response size: 1711 bytes
+[2025-05-30 07:47:32] ✓ Respuesta exitosa para producto 1001080 en intento 1
+[2025-05-30 07:47:32] ✓ Producto 1001080 actualizado exitosamente
+[2025-05-30 07:47:35] Procesando producto ID: 1001081 - broca fierro#8
+[2025-05-30 07:47:35] Intento 1 de 6 para producto 1001081
+[2025-05-30 07:47:39] HTTP Code: 200, Response size: 1788 bytes
+[2025-05-30 07:47:39] ✓ Respuesta exitosa para producto 1001081 en intento 1
+[2025-05-30 07:47:39] ✓ Producto 1001081 actualizado exitosamente
+[2025-05-30 07:47:42] Procesando producto ID: 1001082 - broca fierro #10
+[2025-05-30 07:47:42] Intento 1 de 6 para producto 1001082
+[2025-05-30 07:47:45] HTTP Code: 200, Response size: 1829 bytes
+[2025-05-30 07:47:45] ✓ Respuesta exitosa para producto 1001082 en intento 1
+[2025-05-30 07:47:45] ✓ Producto 1001082 actualizado exitosamente
+[2025-05-30 07:47:48] Procesando producto ID: 1001083 - broca fierro #12
+[2025-05-30 07:47:48] Intento 1 de 6 para producto 1001083
+[2025-05-30 07:47:52] HTTP Code: 200, Response size: 1701 bytes
+[2025-05-30 07:47:52] ✓ Respuesta exitosa para producto 1001083 en intento 1
+[2025-05-30 07:47:52] ✓ Producto 1001083 actualizado exitosamente
+[2025-05-30 07:47:55] Procesando producto ID: 1001084 - broca concreto #6
+[2025-05-30 07:47:55] Intento 1 de 6 para producto 1001084
+[2025-05-30 07:47:58] HTTP Code: 200, Response size: 1641 bytes
+[2025-05-30 07:47:58] ✓ Respuesta exitosa para producto 1001084 en intento 1
+[2025-05-30 07:47:58] ✓ Producto 1001084 actualizado exitosamente
+[2025-05-30 07:48:01] Procesando producto ID: 1001085 - broca concreto #8
+[2025-05-30 07:48:01] Intento 1 de 6 para producto 1001085
+[2025-05-30 07:48:04] HTTP Code: 200, Response size: 1666 bytes
+[2025-05-30 07:48:04] ✓ Respuesta exitosa para producto 1001085 en intento 1
+[2025-05-30 07:48:04] ✓ Producto 1001085 actualizado exitosamente
+[2025-05-30 07:48:07] Procesando producto ID: 1001086 - broca concreto #10
+[2025-05-30 07:48:07] Intento 1 de 6 para producto 1001086
+[2025-05-30 07:48:11] HTTP Code: 200, Response size: 1801 bytes
+[2025-05-30 07:48:11] ✓ Respuesta exitosa para producto 1001086 en intento 1
+[2025-05-30 07:48:11] ✓ Producto 1001086 actualizado exitosamente
+[2025-05-30 07:48:11] Memoria usada: 2MB - Total procesados: 30
+[2025-05-30 07:48:14] === RESUMEN DEL LOTE ===
+[2025-05-30 07:48:14] Productos en lote: 30
+[2025-05-30 07:48:14] Total procesados: 30 de 401
+[2025-05-30 07:48:14] Procesando lote - Offset: 30, Limit: 30
+[2025-05-30 07:48:14] Productos en este lote: 30
+[2025-05-30 07:48:14] Procesando producto ID: 1001087 - llave torx kit (FORCE)
+[2025-05-30 07:48:14] Intento 1 de 6 para producto 1001087
+[2025-05-30 07:48:18] HTTP Code: 200, Response size: 2027 bytes
+[2025-05-30 07:48:18] ✓ Respuesta exitosa para producto 1001087 en intento 1
+[2025-05-30 07:48:18] ✓ Producto 1001087 actualizado exitosamente
+[2025-05-30 07:48:21] Procesando producto ID: 1001088 - figure punch (TOLSEN)
+[2025-05-30 07:48:21] Intento 1 de 6 para producto 1001088
+[2025-05-30 07:48:25] HTTP Code: 200, Response size: 1907 bytes
+[2025-05-30 07:48:25] ✓ Respuesta exitosa para producto 1001088 en intento 1
+[2025-05-30 07:48:25] ✓ Producto 1001088 actualizado exitosamente
+[2025-05-30 07:48:28] Procesando producto ID: 1001089 - nivel (UBERMANN)
+[2025-05-30 07:48:28] Intento 1 de 6 para producto 1001089
+[2025-05-30 07:48:31] HTTP Code: 200, Response size: 1744 bytes
+[2025-05-30 07:48:31] ✓ Respuesta exitosa para producto 1001089 en intento 1
+[2025-05-30 07:48:31] ✓ Producto 1001089 actualizado exitosamente
+[2025-05-30 07:48:34] Procesando producto ID: 1001090 - perillero estrella (KRESS)
+[2025-05-30 07:48:34] Intento 1 de 6 para producto 1001090
+[2025-05-30 07:48:38] HTTP Code: 200, Response size: 1853 bytes
+[2025-05-30 07:48:38] ✓ Respuesta exitosa para producto 1001090 en intento 1
+[2025-05-30 07:48:38] ✓ Producto 1001090 actualizado exitosamente
+[2025-05-30 07:48:41] Procesando producto ID: 1001092 - perillero plano (KRESS)
+[2025-05-30 07:48:41] Intento 1 de 6 para producto 1001092
+[2025-05-30 07:48:44] HTTP Code: 200, Response size: 1850 bytes
+[2025-05-30 07:48:44] ✓ Respuesta exitosa para producto 1001092 en intento 1
+[2025-05-30 07:48:44] ✓ Producto 1001092 actualizado exitosamente
+[2025-05-30 07:48:47] Procesando producto ID: 1001093 - escuadra (ESMART 15CM)
+[2025-05-30 07:48:47] Intento 1 de 6 para producto 1001093
+[2025-05-30 07:48:51] HTTP Code: 200, Response size: 1838 bytes
+[2025-05-30 07:48:51] ✓ Respuesta exitosa para producto 1001093 en intento 1
+[2025-05-30 07:48:51] ✓ Producto 1001093 actualizado exitosamente
+[2025-05-30 07:48:54] Procesando producto ID: 1001096 - escuadra (ESMART 50CM)
+[2025-05-30 07:48:54] Intento 1 de 6 para producto 1001096
+[2025-05-30 07:48:58] HTTP Code: 200, Response size: 1731 bytes
+[2025-05-30 07:48:58] ✓ Respuesta exitosa para producto 1001096 en intento 1
+[2025-05-30 07:48:58] ✓ Producto 1001096 actualizado exitosamente
+[2025-05-30 07:49:01] Procesando producto ID: 1001098 - careta de soldar (UYUSTOOLS)
+[2025-05-30 07:49:01] Intento 1 de 6 para producto 1001098
+[2025-05-30 07:49:05] HTTP Code: 200, Response size: 1957 bytes
+[2025-05-30 07:49:05] ✓ Respuesta exitosa para producto 1001098 en intento 1
+[2025-05-30 07:49:05] ✓ Producto 1001098 actualizado exitosamente
+[2025-05-30 07:49:08] Procesando producto ID: 1001101 - prensa tipo © (BAUKER)
+[2025-05-30 07:49:08] Intento 1 de 6 para producto 1001101
+[2025-05-30 07:49:12] HTTP Code: 200, Response size: 1828 bytes
+[2025-05-30 07:49:12] ✓ Respuesta exitosa para producto 1001101 en intento 1
+[2025-05-30 07:49:12] ✓ Producto 1001101 actualizado exitosamente
+[2025-05-30 07:49:15] Procesando producto ID: 1001102 - tensadoras (UYUSTOOLS
+[2025-05-30 07:49:15] Intento 1 de 6 para producto 1001102
+[2025-05-30 07:49:19] HTTP Code: 200, Response size: 1921 bytes
+[2025-05-30 07:49:19] ✓ Respuesta exitosa para producto 1001102 en intento 1
+[2025-05-30 07:49:19] ✓ Producto 1001102 actualizado exitosamente
+[2025-05-30 07:49:19] Memoria usada: 2MB - Total procesados: 40
+[2025-05-30 07:49:22] Procesando producto ID: 1001306 - PAPEL HIGIENICO RENDIPEL
+[2025-05-30 07:49:22] Intento 1 de 6 para producto 1001306
+[2025-05-30 07:49:25] HTTP Code: 200, Response size: 1636 bytes
+[2025-05-30 07:49:25] ✓ Respuesta exitosa para producto 1001306 en intento 1
+[2025-05-30 07:49:25] ✓ Producto 1001306 actualizado exitosamente
+[2025-05-30 07:49:28] Procesando producto ID: 1001307 - TOALLA NOVA RENDIPEL
+[2025-05-30 07:49:28] Intento 1 de 6 para producto 1001307
+[2025-05-30 07:49:32] HTTP Code: 200, Response size: 1797 bytes
+[2025-05-30 07:49:32] ✓ Respuesta exitosa para producto 1001307 en intento 1
+[2025-05-30 07:49:32] ✓ Producto 1001307 actualizado exitosamente
+[2025-05-30 07:49:35] Procesando producto ID: 1001308 - ALCOHOL 1LT
+[2025-05-30 07:49:35] Intento 1 de 6 para producto 1001308
+[2025-05-30 07:49:38] HTTP Code: 200, Response size: 1663 bytes
+[2025-05-30 07:49:38] ✓ Respuesta exitosa para producto 1001308 en intento 1
+[2025-05-30 07:49:38] ✓ Producto 1001308 actualizado exitosamente
+[2025-05-30 07:49:41] Procesando producto ID: 1001309 - GUANTE DE LATEX 1CAJA
+[2025-05-30 07:49:41] Intento 1 de 6 para producto 1001309
+[2025-05-30 07:49:45] HTTP Code: 200, Response size: 1714 bytes
+[2025-05-30 07:49:45] ✓ Respuesta exitosa para producto 1001309 en intento 1
+[2025-05-30 07:49:45] ✓ Producto 1001309 actualizado exitosamente
+[2025-05-30 07:49:48] Procesando producto ID: 1001312 - BOLSA BASURA 90X70
+[2025-05-30 07:49:48] Intento 1 de 6 para producto 1001312
+[2025-05-30 07:49:51] HTTP Code: 200, Response size: 1634 bytes
+[2025-05-30 07:49:51] ✓ Respuesta exitosa para producto 1001312 en intento 1
+[2025-05-30 07:49:51] ✓ Producto 1001312 actualizado exitosamente
+[2025-05-30 07:49:54] Procesando producto ID: 1001315 - BOLSA BASURA 110X120
+[2025-05-30 07:49:54] Intento 1 de 6 para producto 1001315
+[2025-05-30 07:49:58] HTTP Code: 200, Response size: 1815 bytes
+[2025-05-30 07:49:58] ✓ Respuesta exitosa para producto 1001315 en intento 1
+[2025-05-30 07:49:58] ✓ Producto 1001315 actualizado exitosamente
+[2025-05-30 07:50:01] Procesando producto ID: 1001316 - CLORO GALON
+[2025-05-30 07:50:01] Intento 1 de 6 para producto 1001316
+[2025-05-30 07:50:04] HTTP Code: 200, Response size: 1681 bytes
+[2025-05-30 07:50:04] ✓ Respuesta exitosa para producto 1001316 en intento 1
+[2025-05-30 07:50:04] ✓ Producto 1001316 actualizado exitosamente
+[2025-05-30 07:50:07] Procesando producto ID: 1001318 - JABON GALON
+[2025-05-30 07:50:07] Intento 1 de 6 para producto 1001318
+[2025-05-30 07:50:11] HTTP Code: 200, Response size: 1790 bytes
+[2025-05-30 07:50:11] ✓ Respuesta exitosa para producto 1001318 en intento 1
+[2025-05-30 07:50:11] ✓ Producto 1001318 actualizado exitosamente
+[2025-05-30 07:50:14] Procesando producto ID: 1001319 - VIRUTEX MULTISUPERFICIES GL
+[2025-05-30 07:50:14] Intento 1 de 6 para producto 1001319
+[2025-05-30 07:50:18] HTTP Code: 200, Response size: 1719 bytes
+[2025-05-30 07:50:18] ✓ Respuesta exitosa para producto 1001319 en intento 1
+[2025-05-30 07:50:18] ✓ Producto 1001319 actualizado exitosamente
+[2025-05-30 07:50:21] Procesando producto ID: 1001320 - ELIMINADOR DE SARRO 1GL
+[2025-05-30 07:50:21] Intento 1 de 6 para producto 1001320
+[2025-05-30 07:50:24] HTTP Code: 200, Response size: 1884 bytes
+[2025-05-30 07:50:24] ✓ Respuesta exitosa para producto 1001320 en intento 1
+[2025-05-30 07:50:24] ✓ Producto 1001320 actualizado exitosamente
+[2025-05-30 07:50:24] Memoria usada: 2MB - Total procesados: 50
+[2025-05-30 07:50:27] Procesando producto ID: 1001322 - LAVALOZA GALON
+[2025-05-30 07:50:27] Intento 1 de 6 para producto 1001322
+[2025-05-30 07:50:31] HTTP Code: 200, Response size: 1737 bytes
+[2025-05-30 07:50:31] ✓ Respuesta exitosa para producto 1001322 en intento 1
+[2025-05-30 07:50:31] ✓ Producto 1001322 actualizado exitosamente
+[2025-05-30 07:50:34] Procesando producto ID: 1001323 - paños microfibras pack 8un
+[2025-05-30 07:50:34] Intento 1 de 6 para producto 1001323
+[2025-05-30 07:50:38] HTTP Code: 200, Response size: 1741 bytes
+[2025-05-30 07:50:38] ✓ Respuesta exitosa para producto 1001323 en intento 1
+[2025-05-30 07:50:38] ✓ Producto 1001323 actualizado exitosamente
+[2025-05-30 07:50:41] Procesando producto ID: 1001324 - DESODORANTE AMBIENTAL
+[2025-05-30 07:50:41] Intento 1 de 6 para producto 1001324
+[2025-05-30 07:50:45] HTTP Code: 200, Response size: 1737 bytes
+[2025-05-30 07:50:45] ✓ Respuesta exitosa para producto 1001324 en intento 1
+[2025-05-30 07:50:45] ✓ Producto 1001324 actualizado exitosamente
+[2025-05-30 07:50:48] Procesando producto ID: 1001325 - GEL AROMATIZANTE 190G
+[2025-05-30 07:50:48] Intento 1 de 6 para producto 1001325
+[2025-05-30 07:50:51] HTTP Code: 200, Response size: 1641 bytes
+[2025-05-30 07:50:51] ✓ Respuesta exitosa para producto 1001325 en intento 1
+[2025-05-30 07:50:51] ✓ Producto 1001325 actualizado exitosamente
+[2025-05-30 07:50:54] Procesando producto ID: 1001326 - ESPONJA
+[2025-05-30 07:50:54] Intento 1 de 6 para producto 1001326
+[2025-05-30 07:50:58] HTTP Code: 200, Response size: 1734 bytes
+[2025-05-30 07:50:58] ✓ Respuesta exitosa para producto 1001326 en intento 1
+[2025-05-30 07:50:58] ✓ Producto 1001326 actualizado exitosamente
+[2025-05-30 07:51:01] Procesando producto ID: 1001334 - DISTANCIADOR 15X20
+[2025-05-30 07:51:01] Intento 1 de 6 para producto 1001334
+[2025-05-30 07:51:05] HTTP Code: 200, Response size: 1846 bytes
+[2025-05-30 07:51:05] ✓ Respuesta exitosa para producto 1001334 en intento 1
+[2025-05-30 07:51:05] ✓ Producto 1001334 actualizado exitosamente
+[2025-05-30 07:51:08] Procesando producto ID: 1001335 - EMBELLECEDOR 15X8
+[2025-05-30 07:51:08] Intento 1 de 6 para producto 1001335
+[2025-05-30 07:51:12] HTTP Code: 200, Response size: 1914 bytes
+[2025-05-30 07:51:12] ✓ Respuesta exitosa para producto 1001335 en intento 1
+[2025-05-30 07:51:12] ✓ Producto 1001335 actualizado exitosamente
+[2025-05-30 07:51:15] Procesando producto ID: 1001359 - TRANSFORMADOR 10AMP
+[2025-05-30 07:51:15] Intento 1 de 6 para producto 1001359
+[2025-05-30 07:51:19] HTTP Code: 200, Response size: 1834 bytes
+[2025-05-30 07:51:19] ✓ Respuesta exitosa para producto 1001359 en intento 1
+[2025-05-30 07:51:19] ✓ Producto 1001359 actualizado exitosamente
+[2025-05-30 07:51:22] Procesando producto ID: 1001360 - TRANSFORMADOR 20AMP
+[2025-05-30 07:51:22] Intento 1 de 6 para producto 1001360
+[2025-05-30 07:51:25] HTTP Code: 200, Response size: 1954 bytes
+[2025-05-30 07:51:25] ✓ Respuesta exitosa para producto 1001360 en intento 1
+[2025-05-30 07:51:25] ✓ Producto 1001360 actualizado exitosamente
+[2025-05-30 07:51:28] Procesando producto ID: 1001361 - TRANSFORMADOR 15AMP
+[2025-05-30 07:51:28] Intento 1 de 6 para producto 1001361
+[2025-05-30 07:51:32] HTTP Code: 200, Response size: 2030 bytes
+[2025-05-30 07:51:32] ✓ Respuesta exitosa para producto 1001361 en intento 1
+[2025-05-30 07:51:32] ✓ Producto 1001361 actualizado exitosamente
+[2025-05-30 07:51:32] Memoria usada: 2MB - Total procesados: 60
+[2025-05-30 07:51:35] === RESUMEN DEL LOTE ===
+[2025-05-30 07:51:35] Productos en lote: 30
+[2025-05-30 07:51:35] Total procesados: 60 de 401
+[2025-05-30 07:51:35] Procesando lote - Offset: 60, Limit: 30
+[2025-05-30 07:51:35] Productos en este lote: 30
+[2025-05-30 07:51:35] Procesando producto ID: 1001362 - TRANSFORMADOR 30AMP
+[2025-05-30 07:51:35] Intento 1 de 6 para producto 1001362
+[2025-05-30 07:51:39] HTTP Code: 200, Response size: 1932 bytes
+[2025-05-30 07:51:39] ✓ Respuesta exitosa para producto 1001362 en intento 1
+[2025-05-30 07:51:39] ✓ Producto 1001362 actualizado exitosamente
+[2025-05-30 07:51:42] Procesando producto ID: 1001375 - LUZ ROJA DE EMERGENCIA
+[2025-05-30 07:51:42] Intento 1 de 6 para producto 1001375
+[2025-05-30 07:51:45] HTTP Code: 200, Response size: 1816 bytes
+[2025-05-30 07:51:45] ✓ Respuesta exitosa para producto 1001375 en intento 1
+[2025-05-30 07:51:45] ✓ Producto 1001375 actualizado exitosamente
+[2025-05-30 07:51:48] Procesando producto ID: 1001436 - CABLE CORDON 3X1,5MM 100MT
+[2025-05-30 07:51:48] Intento 1 de 6 para producto 1001436
+[2025-05-30 07:51:52] HTTP Code: 200, Response size: 1751 bytes
+[2025-05-30 07:51:52] ✓ Respuesta exitosa para producto 1001436 en intento 1
+[2025-05-30 07:51:52] ✓ Producto 1001436 actualizado exitosamente
+[2025-05-30 07:51:55] Procesando producto ID: 1001438 - CABLE PARALELO 100MT
+[2025-05-30 07:51:55] Intento 1 de 6 para producto 1001438
+[2025-05-30 07:51:58] HTTP Code: 200, Response size: 1663 bytes
+[2025-05-30 07:51:58] ✓ Respuesta exitosa para producto 1001438 en intento 1
+[2025-05-30 07:51:58] ✓ Producto 1001438 actualizado exitosamente
+[2025-05-30 07:52:01] Procesando producto ID: 1001440 - AMARRAS PLASTICAS 300X3,6MM 100UN
+[2025-05-30 07:52:01] Intento 1 de 6 para producto 1001440
+[2025-05-30 07:52:04] HTTP Code: 200, Response size: 1807 bytes
+[2025-05-30 07:52:04] ✓ Respuesta exitosa para producto 1001440 en intento 1
+[2025-05-30 07:52:04] ✓ Producto 1001440 actualizado exitosamente
+[2025-05-30 07:52:07] Procesando producto ID: 1001441 - CAJA CHUQUI METALICA
+[2025-05-30 07:52:07] Intento 1 de 6 para producto 1001441
+[2025-05-30 07:52:12] HTTP Code: 200, Response size: 2024 bytes
+[2025-05-30 07:52:12] ✓ Respuesta exitosa para producto 1001441 en intento 1
+[2025-05-30 07:52:12] ✓ Producto 1001441 actualizado exitosamente
+[2025-05-30 07:52:15] Procesando producto ID: 1001442 - HENCHUFE HEMBRA TRIPLE
+[2025-05-30 07:52:15] Intento 1 de 6 para producto 1001442
+[2025-05-30 07:52:18] HTTP Code: 200, Response size: 1782 bytes
+[2025-05-30 07:52:18] ✓ Respuesta exitosa para producto 1001442 en intento 1
+[2025-05-30 07:52:18] ✓ Producto 1001442 actualizado exitosamente
+[2025-05-30 07:52:21] Procesando producto ID: 1001443 - ACRILICO BLANCO 5MM 122X244MT
+[2025-05-30 07:52:21] Intento 1 de 6 para producto 1001443
+[2025-05-30 07:52:24] HTTP Code: 200, Response size: 1910 bytes
+[2025-05-30 07:52:24] ✓ Respuesta exitosa para producto 1001443 en intento 1
+[2025-05-30 07:52:24] ✓ Producto 1001443 actualizado exitosamente
+[2025-05-30 07:52:27] Procesando producto ID: 1001480 - SACO HORMIGON PRELISTO 25KG
+[2025-05-30 07:52:27] Intento 1 de 6 para producto 1001480
+[2025-05-30 07:52:31] HTTP Code: 200, Response size: 1732 bytes
+[2025-05-30 07:52:31] ✓ Respuesta exitosa para producto 1001480 en intento 1
+[2025-05-30 07:52:31] ✓ Producto 1001480 actualizado exitosamente
+[2025-05-30 07:52:34] Procesando producto ID: 1001482 - ALAMBRE GALVANIZADO N°18  KG
+[2025-05-30 07:52:34] Intento 1 de 6 para producto 1001482
+[2025-05-30 07:52:37] HTTP Code: 200, Response size: 1880 bytes
+[2025-05-30 07:52:37] ✓ Respuesta exitosa para producto 1001482 en intento 1
+[2025-05-30 07:52:37] ✓ Producto 1001482 actualizado exitosamente
+[2025-05-30 07:52:37] Memoria usada: 2MB - Total procesados: 70
+[2025-05-30 07:52:40] Procesando producto ID: 1001483 - tubo pvc 20mm naranja 3mt
+[2025-05-30 07:52:40] Intento 1 de 6 para producto 1001483
+[2025-05-30 07:52:44] HTTP Code: 200, Response size: 1783 bytes
+[2025-05-30 07:52:44] ✓ Respuesta exitosa para producto 1001483 en intento 1
+[2025-05-30 07:52:44] ✓ Producto 1001483 actualizado exitosamente
+[2025-05-30 07:52:47] Procesando producto ID: 1001500 - PORTA GRAFICA A4 \\\"T\\\"
+[2025-05-30 07:52:47] Intento 1 de 6 para producto 1001500
+[2025-05-30 07:52:50] HTTP Code: 200, Response size: 1890 bytes
+[2025-05-30 07:52:50] ✓ Respuesta exitosa para producto 1001500 en intento 1
+[2025-05-30 07:52:50] ✓ Producto 1001500 actualizado exitosamente
+[2025-05-30 07:52:53] Procesando producto ID: 1001501 - DILUYENTE SINTETICO 1litro
+[2025-05-30 07:52:53] Intento 1 de 6 para producto 1001501
+[2025-05-30 07:52:56] HTTP Code: 200, Response size: 1742 bytes
+[2025-05-30 07:52:56] ✓ Respuesta exitosa para producto 1001501 en intento 1
+[2025-05-30 07:52:56] ✓ Producto 1001501 actualizado exitosamente
+[2025-05-30 07:52:59] Procesando producto ID: 1001502 - TORNILLO MADERA 2\\\"
+[2025-05-30 07:52:59] Intento 1 de 6 para producto 1001502
+[2025-05-30 07:53:03] HTTP Code: 200, Response size: 1758 bytes
+[2025-05-30 07:53:03] ✓ Respuesta exitosa para producto 1001502 en intento 1
+[2025-05-30 07:53:03] ✓ Producto 1001502 actualizado exitosamente
+[2025-05-30 07:53:06] Procesando producto ID: 1001505 - ESPONJA DE BRUÑIR
+[2025-05-30 07:53:06] Intento 1 de 6 para producto 1001505
+[2025-05-30 07:53:09] HTTP Code: 200, Response size: 1854 bytes
+[2025-05-30 07:53:09] ✓ Respuesta exitosa para producto 1001505 en intento 1
+[2025-05-30 07:53:09] ✓ Producto 1001505 actualizado exitosamente
+[2025-05-30 07:53:12] Procesando producto ID: 1001506 - LOCTITE
+[2025-05-30 07:53:12] Intento 1 de 6 para producto 1001506
+[2025-05-30 07:53:16] HTTP Code: 200, Response size: 1915 bytes
+[2025-05-30 07:53:16] ✓ Respuesta exitosa para producto 1001506 en intento 1
+[2025-05-30 07:53:16] ✓ Producto 1001506 actualizado exitosamente
+[2025-05-30 07:53:19] Procesando producto ID: 1001507 - CINTA MASKING
+[2025-05-30 07:53:19] Intento 1 de 6 para producto 1001507
+[2025-05-30 07:53:23] HTTP Code: 200, Response size: 1679 bytes
+[2025-05-30 07:53:23] ✓ Respuesta exitosa para producto 1001507 en intento 1
+[2025-05-30 07:53:23] ✓ Producto 1001507 actualizado exitosamente
+[2025-05-30 07:53:26] Procesando producto ID: 1001508 - CINTA AISLANTE NEGRA
+[2025-05-30 07:53:26] Intento 1 de 6 para producto 1001508
+[2025-05-30 07:53:30] HTTP Code: 200, Response size: 1882 bytes
+[2025-05-30 07:53:30] ✓ Respuesta exitosa para producto 1001508 en intento 1
+[2025-05-30 07:53:30] ✓ Producto 1001508 actualizado exitosamente
+[2025-05-30 07:53:33] Procesando producto ID: 1001509 - SOLDADURA ESTAÑO 1,2MM ROLLO
+[2025-05-30 07:53:33] Intento 1 de 6 para producto 1001509
+[2025-05-30 07:53:36] HTTP Code: 200, Response size: 1763 bytes
+[2025-05-30 07:53:36] ✓ Respuesta exitosa para producto 1001509 en intento 1
+[2025-05-30 07:53:36] ✓ Producto 1001509 actualizado exitosamente
+[2025-05-30 07:53:39] Procesando producto ID: 1001510 - CINTA DOBLE FAZ ESPUMOSA
+[2025-05-30 07:53:39] Intento 1 de 6 para producto 1001510
+[2025-05-30 07:53:43] HTTP Code: 200, Response size: 1905 bytes
+[2025-05-30 07:53:43] ✓ Respuesta exitosa para producto 1001510 en intento 1
+[2025-05-30 07:53:43] ✓ Producto 1001510 actualizado exitosamente
+[2025-05-30 07:53:43] Memoria usada: 2MB - Total procesados: 80
+[2025-05-30 07:53:46] Procesando producto ID: 1001511 - CINTA DOBLE FAZ PAPEL AMARILLA
+[2025-05-30 07:53:46] Intento 1 de 6 para producto 1001511
+[2025-05-30 07:53:49] HTTP Code: 200, Response size: 1784 bytes
+[2025-05-30 07:53:49] ✓ Respuesta exitosa para producto 1001511 en intento 1
+[2025-05-30 07:53:49] ✓ Producto 1001511 actualizado exitosamente
+[2025-05-30 07:53:52] Procesando producto ID: 1001512 - FRAGUADOR LENGUETA
+[2025-05-30 07:53:52] Intento 1 de 6 para producto 1001512
+[2025-05-30 07:53:56] HTTP Code: 200, Response size: 1870 bytes
+[2025-05-30 07:53:56] ✓ Respuesta exitosa para producto 1001512 en intento 1
+[2025-05-30 07:53:56] ✓ Producto 1001512 actualizado exitosamente
+[2025-05-30 07:53:59] Procesando producto ID: 1001513 - REGLETA DE CONEXION 10MM
+[2025-05-30 07:53:59] Intento 1 de 6 para producto 1001513
+[2025-05-30 07:54:03] HTTP Code: 200, Response size: 1752 bytes
+[2025-05-30 07:54:03] ✓ Respuesta exitosa para producto 1001513 en intento 1
+[2025-05-30 07:54:03] ✓ Producto 1001513 actualizado exitosamente
+[2025-05-30 07:54:06] Procesando producto ID: 1001515 - CABLE LIBRE HALOGENO ROJO 1,5MM MT
+[2025-05-30 07:54:06] Intento 1 de 6 para producto 1001515
+[2025-05-30 07:54:09] HTTP Code: 200, Response size: 1754 bytes
+[2025-05-30 07:54:09] ✓ Respuesta exitosa para producto 1001515 en intento 1
+[2025-05-30 07:54:09] ✓ Producto 1001515 actualizado exitosamente
+[2025-05-30 07:54:12] Procesando producto ID: 1001516 - CABLE LIBRE HALOGENO BLANCO 1,5MM MT
+[2025-05-30 07:54:12] Intento 1 de 6 para producto 1001516
+[2025-05-30 07:54:16] HTTP Code: 200, Response size: 1764 bytes
+[2025-05-30 07:54:16] ✓ Respuesta exitosa para producto 1001516 en intento 1
+[2025-05-30 07:54:16] ✓ Producto 1001516 actualizado exitosamente
+[2025-05-30 07:54:19] Procesando producto ID: 1001517 - CABLE LIBRE HALOGENO VERDE 1,5MM MT
+[2025-05-30 07:54:19] Intento 1 de 6 para producto 1001517
+[2025-05-30 07:54:22] HTTP Code: 200, Response size: 1821 bytes
+[2025-05-30 07:54:22] ✓ Respuesta exitosa para producto 1001517 en intento 1
+[2025-05-30 07:54:22] ✓ Producto 1001517 actualizado exitosamente
+[2025-05-30 07:54:25] Procesando producto ID: 1001520 - FILM
+[2025-05-30 07:54:25] Intento 1 de 6 para producto 1001520
+[2025-05-30 07:54:29] HTTP Code: 200, Response size: 2083 bytes
+[2025-05-30 07:54:29] ✓ Respuesta exitosa para producto 1001520 en intento 1
+[2025-05-30 07:54:29] ✓ Producto 1001520 actualizado exitosamente
+[2025-05-30 07:54:32] Procesando producto ID: 1001521 - ROLLO LIJA MADERA 100
+[2025-05-30 07:54:32] Intento 1 de 6 para producto 1001521
+[2025-05-30 07:54:36] HTTP Code: 200, Response size: 1619 bytes
+[2025-05-30 07:54:36] ✓ Respuesta exitosa para producto 1001521 en intento 1
+[2025-05-30 07:54:36] ✓ Producto 1001521 actualizado exitosamente
+[2025-05-30 07:54:39] Procesando producto ID: 1001522 - OJETILLOS 12MM
+[2025-05-30 07:54:39] Intento 1 de 6 para producto 1001522
+[2025-05-30 07:54:42] HTTP Code: 200, Response size: 1764 bytes
+[2025-05-30 07:54:42] ✓ Respuesta exitosa para producto 1001522 en intento 1
+[2025-05-30 07:54:42] ✓ Producto 1001522 actualizado exitosamente
+[2025-05-30 07:54:45] Procesando producto ID: 1001523 - CINTA LED NORMAL BLANCO 5MTS
+[2025-05-30 07:54:45] Intento 1 de 6 para producto 1001523
+[2025-05-30 07:54:48] HTTP Code: 200, Response size: 1663 bytes
+[2025-05-30 07:54:48] ✓ Respuesta exitosa para producto 1001523 en intento 1
+[2025-05-30 07:54:48] ✓ Producto 1001523 actualizado exitosamente
+[2025-05-30 07:54:48] Memoria usada: 2MB - Total procesados: 90
+[2025-05-30 07:54:51] === RESUMEN DEL LOTE ===
+[2025-05-30 07:54:51] Productos en lote: 30
+[2025-05-30 07:54:51] Total procesados: 90 de 401
+[2025-05-30 07:54:51] Procesando lote - Offset: 90, Limit: 30
+[2025-05-30 07:54:51] Productos en este lote: 30
+[2025-05-30 07:54:51] Procesando producto ID: 1001525 - CINTA LED BLANCO FUERTE MODEL:35852
+[2025-05-30 07:54:51] Intento 1 de 6 para producto 1001525
+[2025-05-30 07:54:55] HTTP Code: 200, Response size: 1620 bytes
+[2025-05-30 07:54:55] ✓ Respuesta exitosa para producto 1001525 en intento 1
+[2025-05-30 07:54:55] ✓ Producto 1001525 actualizado exitosamente
+[2025-05-30 07:54:58] Procesando producto ID: 1001527 - CINTA LED BLANCA NEUTRA MODEL 35851
+[2025-05-30 07:54:58] Intento 1 de 6 para producto 1001527
+[2025-05-30 07:55:01] HTTP Code: 200, Response size: 1874 bytes
+[2025-05-30 07:55:01] ✓ Respuesta exitosa para producto 1001527 en intento 1
+[2025-05-30 07:55:01] ✓ Producto 1001527 actualizado exitosamente
+[2025-05-30 07:55:04] Procesando producto ID: 1001528 - CINTA LED AZUL 5MT
+[2025-05-30 07:55:04] Intento 1 de 6 para producto 1001528
+[2025-05-30 07:55:07] HTTP Code: 200, Response size: 1607 bytes
+[2025-05-30 07:55:07] ✓ Respuesta exitosa para producto 1001528 en intento 1
+[2025-05-30 07:55:07] ✓ Producto 1001528 actualizado exitosamente
+[2025-05-30 07:55:10] Procesando producto ID: 1001529 - CINTA LED YELLOW(AMARILLA)
+[2025-05-30 07:55:10] Intento 1 de 6 para producto 1001529
+[2025-05-30 07:55:13] HTTP Code: 200, Response size: 1755 bytes
+[2025-05-30 07:55:13] ✓ Respuesta exitosa para producto 1001529 en intento 1
+[2025-05-30 07:55:13] ✓ Producto 1001529 actualizado exitosamente
+[2025-05-30 07:55:16] Procesando producto ID: 1001530 - CINTA LED VERDE
+[2025-05-30 07:55:16] Intento 1 de 6 para producto 1001530
+[2025-05-30 07:55:19] HTTP Code: 200, Response size: 1659 bytes
+[2025-05-30 07:55:19] ✓ Respuesta exitosa para producto 1001530 en intento 1
+[2025-05-30 07:55:19] ✓ Producto 1001530 actualizado exitosamente
+[2025-05-30 07:55:22] Procesando producto ID: 1001531 - CALUGAS LED 1.2W  100PCS
+[2025-05-30 07:55:22] Intento 1 de 6 para producto 1001531
+[2025-05-30 07:55:26] HTTP Code: 200, Response size: 1710 bytes
+[2025-05-30 07:55:26] ✓ Respuesta exitosa para producto 1001531 en intento 1
+[2025-05-30 07:55:26] ✓ Producto 1001531 actualizado exitosamente
+[2025-05-30 07:55:29] Procesando producto ID: 1001533 - SILICONA SIKAFLEX TUBO
+[2025-05-30 07:55:29] Intento 1 de 6 para producto 1001533
+[2025-05-30 07:55:32] HTTP Code: 200, Response size: 1977 bytes
+[2025-05-30 07:55:32] ✓ Respuesta exitosa para producto 1001533 en intento 1
+[2025-05-30 07:55:32] ✓ Producto 1001533 actualizado exitosamente
+[2025-05-30 07:55:35] Procesando producto ID: 1001534 - SILICONA  TAPAGOTERA GRIS SIKA
+[2025-05-30 07:55:35] Intento 1 de 6 para producto 1001534
+[2025-05-30 07:55:38] HTTP Code: 200, Response size: 1703 bytes
+[2025-05-30 07:55:38] ✓ Respuesta exitosa para producto 1001534 en intento 1
+[2025-05-30 07:55:38] ✓ Producto 1001534 actualizado exitosamente
+[2025-05-30 07:55:41] Procesando producto ID: 1001535 - REPUESTO HOJA CORTA CARTON 9MM
+[2025-05-30 07:55:41] Intento 1 de 6 para producto 1001535
+[2025-05-30 07:55:45] HTTP Code: 200, Response size: 1732 bytes
+[2025-05-30 07:55:45] ✓ Respuesta exitosa para producto 1001535 en intento 1
+[2025-05-30 07:55:45] ✓ Producto 1001535 actualizado exitosamente
+[2025-05-30 07:55:48] Procesando producto ID: 1001582 - NEON FLEX MORADO 5MT
+[2025-05-30 07:55:48] Intento 1 de 6 para producto 1001582
+[2025-05-30 07:55:51] HTTP Code: 200, Response size: 1651 bytes
+[2025-05-30 07:55:51] ✓ Respuesta exitosa para producto 1001582 en intento 1
+[2025-05-30 07:55:51] ✓ Producto 1001582 actualizado exitosamente
+[2025-05-30 07:55:51] Memoria usada: 2MB - Total procesados: 100
+[2025-05-30 07:55:54] Procesando producto ID: 1001583 - NEON FLEX AZUL 5MT
+[2025-05-30 07:55:54] Intento 1 de 6 para producto 1001583
+[2025-05-30 07:55:58] HTTP Code: 200, Response size: 1802 bytes
+[2025-05-30 07:55:58] ✓ Respuesta exitosa para producto 1001583 en intento 1
+[2025-05-30 07:55:58] ✓ Producto 1001583 actualizado exitosamente
+[2025-05-30 07:56:01] Procesando producto ID: 1001584 - NEON FLEX BLANCO 5MT
+[2025-05-30 07:56:01] Intento 1 de 6 para producto 1001584
+[2025-05-30 07:56:05] HTTP Code: 200, Response size: 1842 bytes
+[2025-05-30 07:56:05] ✓ Respuesta exitosa para producto 1001584 en intento 1
+[2025-05-30 07:56:05] ✓ Producto 1001584 actualizado exitosamente
+[2025-05-30 07:56:08] Procesando producto ID: 1001585 - NEON FLEX AMARILLO 5MT
+[2025-05-30 07:56:08] Intento 1 de 6 para producto 1001585
+[2025-05-30 07:56:11] HTTP Code: 200, Response size: 1798 bytes
+[2025-05-30 07:56:11] ✓ Respuesta exitosa para producto 1001585 en intento 1
+[2025-05-30 07:56:11] ✓ Producto 1001585 actualizado exitosamente
+[2025-05-30 07:56:14] Procesando producto ID: 1001586 - ROLLO NEON FLEX BLANCO X MT
+[2025-05-30 07:56:14] Intento 1 de 6 para producto 1001586
+[2025-05-30 07:56:17] HTTP Code: 200, Response size: 1675 bytes
+[2025-05-30 07:56:17] ✓ Respuesta exitosa para producto 1001586 en intento 1
+[2025-05-30 07:56:17] ✓ Producto 1001586 actualizado exitosamente
+[2025-05-30 07:56:20] Procesando producto ID: 1001587 - NEON FLEX ROJO 5MT
+[2025-05-30 07:56:20] Intento 1 de 6 para producto 1001587
+[2025-05-30 07:56:24] HTTP Code: 200, Response size: 1733 bytes
+[2025-05-30 07:56:24] ✓ Respuesta exitosa para producto 1001587 en intento 1
+[2025-05-30 07:56:24] ✓ Producto 1001587 actualizado exitosamente
+[2025-05-30 07:56:27] Procesando producto ID: 1001589 - NEON FLEX ROSADO 5MT
+[2025-05-30 07:56:27] Intento 1 de 6 para producto 1001589
+[2025-05-30 07:56:30] HTTP Code: 200, Response size: 1678 bytes
+[2025-05-30 07:56:30] ✓ Respuesta exitosa para producto 1001589 en intento 1
+[2025-05-30 07:56:30] ✓ Producto 1001589 actualizado exitosamente
+[2025-05-30 07:56:33] Procesando producto ID: 1001590 - NEON FLEX VERDE FOSFORESCENTE 5MT
+[2025-05-30 07:56:33] Intento 1 de 6 para producto 1001590
+[2025-05-30 07:56:36] HTTP Code: 200, Response size: 1718 bytes
+[2025-05-30 07:56:36] ✓ Respuesta exitosa para producto 1001590 en intento 1
+[2025-05-30 07:56:36] ✓ Producto 1001590 actualizado exitosamente
+[2025-05-30 07:56:39] Procesando producto ID: 1001591 - NEON FLEX MENTA 5MT
+[2025-05-30 07:56:39] Intento 1 de 6 para producto 1001591
+[2025-05-30 07:56:43] HTTP Code: 200, Response size: 1832 bytes
+[2025-05-30 07:56:43] ✓ Respuesta exitosa para producto 1001591 en intento 1
+[2025-05-30 07:56:43] ✓ Producto 1001591 actualizado exitosamente
+[2025-05-30 07:56:46] Procesando producto ID: 1001592 - brochas 2\\\"
+[2025-05-30 07:56:46] Intento 1 de 6 para producto 1001592
+[2025-05-30 07:56:49] HTTP Code: 200, Response size: 1668 bytes
+[2025-05-30 07:56:49] ✓ Respuesta exitosa para producto 1001592 en intento 1
+[2025-05-30 07:56:49] ✓ Producto 1001592 actualizado exitosamente
+[2025-05-30 07:56:52] Procesando producto ID: 1001593 - brocha 5\\\"
+[2025-05-30 07:56:52] Intento 1 de 6 para producto 1001593
+[2025-05-30 07:56:55] HTTP Code: 200, Response size: 1740 bytes
+[2025-05-30 07:56:55] ✓ Respuesta exitosa para producto 1001593 en intento 1
+[2025-05-30 07:56:55] ✓ Producto 1001593 actualizado exitosamente
+[2025-05-30 07:56:55] Memoria usada: 2MB - Total procesados: 110
+[2025-05-30 07:56:58] Procesando producto ID: 1001594 - brocha 1\\\"
+[2025-05-30 07:56:58] Intento 1 de 6 para producto 1001594
+[2025-05-30 07:57:02] HTTP Code: 200, Response size: 2011 bytes
+[2025-05-30 07:57:02] ✓ Respuesta exitosa para producto 1001594 en intento 1
+[2025-05-30 07:57:02] ✓ Producto 1001594 actualizado exitosamente
+[2025-05-30 07:57:05] Procesando producto ID: 1001595 - RODILLO CHIPORRO 5\\\"
+[2025-05-30 07:57:05] Intento 1 de 6 para producto 1001595
+[2025-05-30 07:57:09] HTTP Code: 200, Response size: 1782 bytes
+[2025-05-30 07:57:09] ✓ Respuesta exitosa para producto 1001595 en intento 1
+[2025-05-30 07:57:09] ✓ Producto 1001595 actualizado exitosamente
+[2025-05-30 07:57:12] Procesando producto ID: 1001596 - RODILLO CHIPORRO 7\\\"
+[2025-05-30 07:57:12] Intento 1 de 6 para producto 1001596
+[2025-05-30 07:57:16] HTTP Code: 200, Response size: 1747 bytes
+[2025-05-30 07:57:16] ✓ Respuesta exitosa para producto 1001596 en intento 1
+[2025-05-30 07:57:16] ✓ Producto 1001596 actualizado exitosamente
+[2025-05-30 07:57:19] Procesando producto ID: 1001597 - RODILLO GRANITY 9\\\"
+[2025-05-30 07:57:19] Intento 1 de 6 para producto 1001597
+[2025-05-30 07:57:23] HTTP Code: 200, Response size: 1916 bytes
+[2025-05-30 07:57:23] ✓ Respuesta exitosa para producto 1001597 en intento 1
+[2025-05-30 07:57:23] ✓ Producto 1001597 actualizado exitosamente
+[2025-05-30 07:57:26] Procesando producto ID: 1001599 - DISCO DE CORTE 4\\\"
+[2025-05-30 07:57:26] Intento 1 de 6 para producto 1001599
